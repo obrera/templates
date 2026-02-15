@@ -26,6 +26,7 @@ bun install
 
 ### Development
 
+*   **Ruler**: `bun run ruler` — apply AI agent rules
 *   **Build**: `bun run build`
 *   **Type Check**: `bun run check-types`
 *   **Lint**: `bun run lint`
